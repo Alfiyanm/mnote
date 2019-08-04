@@ -59,7 +59,8 @@ agar flutter command dapat dijalankan melalui powershell dalam kondisi apapun. m
 
 Flutter bergantung pada instalasi penuh dari Android Studio untuk menyuplai dependensi platform Android-nya. 
 
-1. masuk pada pada halaman resmi Android Studio.
-![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/Programming/flutter/src/common/images/flutter2.png "pilih User Account")
+1. Masuk pada pada halaman resmi Android Studio.
+![Halaman Resmi Android Studio](https://raw.githubusercontent.com/Alfiyanm/mnote/master/Programming/flutter/src/common/images/android-studio.png "Halaman Resmi Android Studio")
 2. secara otomatis akan menampilkan versi yang sesuai dengan sistem operasi kita. dalam hal ini windows.
-3. 
+![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/Programming/flutter/src/common/images/android-studio.png "pilih User Account")
+3. Langkah selanjutnya 
