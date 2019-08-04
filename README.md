@@ -5,6 +5,8 @@ kali ini saya akan mencoba untuk mendokumentasikan apa yang telah saya lakukan s
 
 langsung saja, dibawah ini akan ada list seperti daftar ini, yang jika di klik, maka akan menuju catatan tertentu sesuai judulnya.
 
+# Programming
+
 ## Android Studio
 
 [1. instalasi Android Studio pada windows 10](../master/flutter/instalasi-flutter-windows10.md)
@@ -38,3 +40,21 @@ langsung saja, dibawah ini akan ada list seperti daftar ini, yang jika di klik, 
 ## Code Igniter
 
 ## Kotlin
+
+## Nest JS
+
+## Adonis JS
+
+# Design
+
+## User Interface
+
+## User Experience
+
+## Typography
+
+# Blog
+
+## Journey of Tkoder's
+
+## Others

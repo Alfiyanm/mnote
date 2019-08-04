@@ -21,7 +21,9 @@ Pilih Get started
 ![Pilih Get started](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/getstarted.png "pilih Get started")
 
 kemudian pilih Windows
-![Pilih Windows](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/pilih-windows.png "pilih Get started")
+![Pilih Windows](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/pilih-windows.png "pilih Windows")
+
+scroll ke bawah, lalu download flutter sdk
+![Download Flutter SDK](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/pilih-windows.png "Download Flutter SDK")
 
 sebelum melangkah lebih jauh, saya ingin katakan sesuatu, sebenarnya dalam laman resminya sendiri sudah dijelaskan secara rinci bagaimana instalasi flutter, akan tetapi dalam bahasa inggris. oke.. maka saya akan mencoba menuliskannya dalam bahasa indonesia. agar lebih mudah untuk dipahami.
-
