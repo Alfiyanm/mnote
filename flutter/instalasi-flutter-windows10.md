@@ -51,3 +51,4 @@ agar flutter command dapat dijalankan melalui powershell. maka harus diupdate pa
 ![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/environment.png "pilih User Account")
 
 6. klik ok, lalu ok. setelah itu jalankan command flutter di powershell. maka akan muncul flutter command
+![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/flutter2.png "pilih User Account")
