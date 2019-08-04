@@ -17,7 +17,7 @@ sebelum kita memulai download atau instalasi flutter pada komputer atau laptop k
 
 langkah selanjutnya adalah mendownload Flutter sdk yang sudah disediakan oleh pengembang dari framework flutter itu sendiri pada halaman [resminya](https://flutter.dev/).
 
-![Pilih Get started](https://github.com/Alfiyanm/mnote/raw/master/src/common/images/getstarted.png "pilih Get started")
+![Pilih Get started](https://github.com/Alfiyanm/mnote/src/common/images/getstarted.png "pilih Get started")
 
 
 sebelum melangkah lebih jauh, saya ingin katakan sesuatu, sebenarnya dalam laman resminya sendiri sudah dijelaskan secara rinci bagaimana instalasi flutter, akan tetapi dalam bahasa inggris. oke.. maka saya akan mencoba menuliskannya dalam bahasa indonesia. agar lebih mudah untuk dipahami.
