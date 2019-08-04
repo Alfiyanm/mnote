@@ -7,5 +7,6 @@ langsung saja, dibawah ini akan ada list seperti daftar ini, yang jika di klik, 
 
 ## Flutter
 
-1. installasi flutter pada windows
-2. menjalankan hello world flutter pada windows
+[1. instalasi flutter pada windows 10](./flutter/instalasi-flutter-windows)
+
+[2. menjalankan hello world flutter pada windows 10](../blob/master/LICENSE)
