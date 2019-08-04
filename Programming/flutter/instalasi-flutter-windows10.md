@@ -57,10 +57,17 @@ agar flutter command dapat dijalankan melalui powershell dalam kondisi apapun. m
 
 #### 4. Menginstall Android Studio
 
-Flutter bergantung pada instalasi penuh dari Android Studio untuk menyuplai dependensi platform Android-nya. 
+Flutter bergantung pada instalasi penuh dari Android Studio untuk menyuplai dependensi platform Android-nya. Maka kita akan memulai untuk menginstallnya.
 
 1. Masuk pada pada halaman resmi Android Studio.
-![Halaman Resmi Android Studio](https://raw.githubusercontent.com/Alfiyanm/mnote/master/Programming/flutter/src/common/images/android-studio.png "Halaman Resmi Android Studio")
-2. secara otomatis akan menampilkan versi yang sesuai dengan sistem operasi kita. dalam hal ini windows.
-![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/Programming/flutter/src/common/images/android-studio.png "pilih User Account")
-3. Langkah selanjutnya 
+![Halaman Resmi Android Studio](https://raw.githubusercontent.com/Alfiyanm/mnote/master/Programming/flutter/src/common/images/android-studio2.png "Halaman Resmi Android Studio")
+secara otomatis akan menampilkan versi yang sesuai dengan sistem operasi kita. dalam hal ini windows. kemudian klik tombol hijau tersebut.
+
+2. Akan muncul jendela Syarat dan Ketentuan yang perlu untuk Anda baca. klik centang jika sudah menyetujui aturan yang tertulis. dan klik Download Android Studio for Windows untuk mulai mendownload, dan pastikan menggunakan koneksi wifi. karena akan mengunduh dalam jumlah yang besar. 
+![Halaman Resmi Android Studio](https://raw.githubusercontent.com/Alfiyanm/mnote/master/Programming/flutter/src/common/images/android-studio3.png "Halaman Resmi Android Studio")
+3. jika sudah terunduh, maka klik dua kali file android studio yang berekstensi .exe tersebut
+![Halaman Resmi Android Studio](https://raw.githubusercontent.com/Alfiyanm/mnote/master/Programming/flutter/src/common/images/android-studio4.png "Halaman Resmi Android Studio")
+4. tunggu sebentar,
+![Halaman Resmi Android Studio](https://raw.githubusercontent.com/Alfiyanm/mnote/master/Programming/flutter/src/common/images/android-studio4a.png "Halaman Resmi Android Studio")
+ maka akan muncul jendela awal Android Studio Setup
+![Halaman Resmi Android Studio](https://raw.githubusercontent.com/Alfiyanm/mnote/master/Programming/flutter/src/common/images/android-studio5.png "Halaman Resmi Android Studio")
