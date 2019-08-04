@@ -40,3 +40,10 @@ agar flutter command dapat dijalankan melalui powershell. maka harus diupdate pa
 1. Masuk ke Control Panel
 2. Pilih User Account
 ![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/user-account.png "pilih User Account")
+3. Pilih lagi User Account 
+![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/user-account2.png "pilih lagi User Account")
+4. pilih Change my environment variables, lalu akan muncul jendela Environment Variables, dalam kotak User variables arahkan ke Variable Path, kemudian klik Edit
+![Pilih Change my environment variables](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/environment-variable.png "pilih User Account")
+5. maka akan muncul jendela baru yaitu edit environment variable, klik new, kemudian masukkan alamat direktori yang telah kita letakkan flutter sdk di sana, sebagai contoh, saya tuliskan D:\Development\flutter.
+
+6. klik ok, lalu ok. setelah itu jalankan command flutter di powershell. maka akan muncul flutter command
