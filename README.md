@@ -5,11 +5,16 @@ kali ini saya akan mencoba untuk mendokumentasikan apa yang telah saya lakukan s
 
 langsung saja, dibawah ini akan ada list seperti daftar ini, yang jika di klik, maka akan menuju catatan tertentu sesuai judulnya.
 
+# Fundamentals
+
+## Javascript
+[1. Pendahuluan](../master/fundamentals/javascript/pendahuluan.md)
+
 # Programming
 
 ## Android Studio
 
-[1. instalasi Android Studio pada windows 10](../master/flutter/instalasi-flutter-windows10.md)
+[1. instalasi Android Studio pada windows 10](../master/Programming/flutter/instalasi-flutter-windows10.md)
 
 ## Angular 8
 

@@ -33,12 +33,12 @@ langkah selanjutnya adalah mendownload Flutter sdk yang sudah disediakan oleh pe
 
 4. setelah itu letakkan didirektori manapun itu terserah Anda, sebagai contoh, saya letakkan di Direktori D:\Development, kemudian ekstrak file zip sehingga terdapat folder bernama flutter.
 
-5. masuk kedalam direktori flutter tersebut, kemudian jalankan flutter_console.bat, maka akan terbuka jendela command prompt disertai munculnya baris deskripsi dan beberapa bantuan pada perintah flutter. maka sampai disini, sebenarnya flutter sudah dapat dijalankan di powershell.![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/flutter.png "pilih User Account")
-akan tetapi, agar dapat dijalankan pada kondisi apapun pada powershell, maka ikuti langkah selanjutnya pada setting environment variable. 
+5. masuk kedalam direktori flutter tersebut, kemudian jalankan flutter_console.bat, maka akan terbuka jendela command prompt disertai munculnya baris deskripsi dan beberapa bantuan pada perintah flutter. Maka sampai disini, sebenarnya flutter sudah dapat dijalankan di powershell.![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/flutter.png "pilih User Account")
+akan tetapi, agar dapat dijalankan pada direktorim manapun pada powershell, maka ikuti langkah selanjutnya pada setting environment variable. 
 
 #### 3. Setting Environment Variable
 
-agar flutter command dapat dijalankan melalui powershell. maka harus diupdate pada environment variable. 
+agar flutter command dapat dijalankan melalui powershell dalam kondisi apapun. maka harus diupdate pada environment variable. 
 
 1. Masuk ke Control Panel
 2. Pilih User Account
@@ -50,5 +50,11 @@ agar flutter command dapat dijalankan melalui powershell. maka harus diupdate pa
 5. maka akan muncul jendela baru yaitu edit environment variable, klik new, kemudian masukkan alamat direktori \bin yang ada di direktori flutter, sebagai contoh, saya tuliskan D:\Development\flutter\bin.
 ![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/environment-variable2.png "pilih User Account")
 
-6. klik ok, lalu ok. setelah itu jalankan command flutter di powershell. maka akan muncul flutter command
-![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/flutter2.png "pilih User Account")
+6. klik ok, lalu ok. setelah itu jalankan command flutter di powershell. maka akan muncul list perintah flutter.
+![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/flutter2.png "pilih User Account")jika belum mendapatkan baris perintah tersebut. maka restart windows kemudian jalankan kembali.
+
+7. selanjutnya kita masih membutuhkan sdk android yang terdapat dalam android studio. yang disediakan oleh google untuk membangun aplikasi android. maka kita akan menginstall android studio.
+
+#### 4. Menginstall Android Studio
+
+1. setelah terdownload, klik dua kali android studio untuk mulai menginstall, maka akan muncul jendela 
