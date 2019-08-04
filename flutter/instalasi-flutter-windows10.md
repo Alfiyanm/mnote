@@ -31,7 +31,10 @@ langkah selanjutnya adalah mendownload Flutter sdk yang sudah disediakan oleh pe
 3. scroll ke bawah, lalu download flutter sdk yang berektensi .zip
 ![Download Flutter SDK](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/download-flutter-sdk.png "Download Flutter SDK")
 
-setelah itu letakkan didirektori manapun itu terserah Anda, sebagai contoh, saya letakkan di Direktori D:\Development, kemudian ekstrak file zip sehingga terdapat folder bernama flutter.
+4. setelah itu letakkan didirektori manapun itu terserah Anda, sebagai contoh, saya letakkan di Direktori D:\Development, kemudian ekstrak file zip sehingga terdapat folder bernama flutter.
+
+5. sampai disini, sebenarnya flutter sudah dapat dijalankan di powershell.![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/flutter.png "pilih User Account")
+akan tetapi, agar dapat dijalankan pada kondisi apapun pada powershell, maka ikuti langkah selanjutnya pada setting environment variable. 
 
 #### 3. Setting Environment Variable
 
@@ -45,5 +48,6 @@ agar flutter command dapat dijalankan melalui powershell. maka harus diupdate pa
 4. pilih Change my environment variables, lalu akan muncul jendela Environment Variables, dalam kotak User variables arahkan ke Variable Path, kemudian klik Edit
 ![Pilih Change my environment variables](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/environment-variable.png "pilih User Account")
 5. maka akan muncul jendela baru yaitu edit environment variable, klik new, kemudian masukkan alamat direktori yang telah kita letakkan flutter sdk di sana, sebagai contoh, saya tuliskan D:\Development\flutter.
+![Pilih User Account](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/environment.png "pilih User Account")
 
 6. klik ok, lalu ok. setelah itu jalankan command flutter di powershell. maka akan muncul flutter command
