@@ -22,15 +22,18 @@ selanjutnya, sebelum kita memulai download atau instalasi flutter pada komputer 
 
 langkah selanjutnya adalah mendownload Flutter sdk yang sudah disediakan oleh pengembang dari framework flutter itu sendiri pada halaman [resminya](https://flutter.dev/).
 
-![Pilih Get started](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/getstarted.png "pilih Get started")Pilih Get started
+1. Pilih Get started
+![Pilih Get started](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/getstarted.png "pilih Get started")
 
-![Pilih Windows](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/pilih-windows.png "pilih Windows")kemudian pilih Windows
+2. kemudian pilih Windows
+![Pilih Windows](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/pilih-windows.png "pilih Windows")
 
-![Download Flutter SDK](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/download-flutter-sdk.png "Download Flutter SDK")scroll ke bawah, lalu download flutter sdk yang berektensi .zip
+3. scroll ke bawah, lalu download flutter sdk yang berektensi .zip
+![Download Flutter SDK](https://raw.githubusercontent.com/Alfiyanm/mnote/master/flutter/src/common/images/download-flutter-sdk.png "Download Flutter SDK")
 
 setelah itu letakkan didirektori manapun itu terserah Anda, sebagai contoh, saya letakkan di Direktori D:\Development, kemudian ekstrak file zip sehingga terdapat folder bernama flutter.
 
-#### Setting Environment Variable
+#### 3. Setting Environment Variable
 
 agar flutter command dapat dijalankan melalui powershell. maka harus diupdate pada environment variable. 
 
